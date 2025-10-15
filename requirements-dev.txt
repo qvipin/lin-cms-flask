@@ -26,3 +26,4 @@ pytest-ordering==0.6
 flake8==4.0.1
 mypy==0.950
 Werkzeug==2.1.2
+python-socketio>=5.14.0 # not directly required, pinned by Snyk to avoid a vulnerability
