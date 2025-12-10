@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.14.2
 # 拷贝依赖
 COPY requirements-prod.txt .
 # 安装依赖
